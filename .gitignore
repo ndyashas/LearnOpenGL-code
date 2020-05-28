@@ -1,0 +1,8 @@
+# Ignore all the object files
+*.o
+
+# Ignore all the binaries that are generated
+*-bin
+
+# Emacs miscs
+*~
