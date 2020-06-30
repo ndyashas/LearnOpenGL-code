@@ -24,3 +24,5 @@ debug-bin: $(OBJECTS)
 
 clean:
 	$(RM) $(OBJECTS) debug-bin *~
+
+.PHONY: clean
